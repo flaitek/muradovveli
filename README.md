@@ -1,8 +1,6 @@
-# habit_tracker_red
+Мурадов Вели Ильхам оглы
 
-Трекер привычек на Flutter — тёмная тема с красными акцентами.
-
-Реализует то же задание, что и [habit_tracker](https://github.com/OlegNemchinov/habit_tracker), но в новом дизайне.
+Трекер привычек на Flutter
 
 ## Функционал
 
